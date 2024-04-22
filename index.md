@@ -1,15 +1,31 @@
+<style>
+  nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+</style>
+
 # My Portfolio
 
 Welcome to my GitHub Pages portfolio!
-
-<nav>
-  <ul>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#resume">Resume</a></li>
-    <li><a href="#interpreting-data">Interpreting Data</a></li>
-    <li><a href="#project-proposal">Project Proposal</a></li>
-  </ul>
-</nav>
 
 ---
 
@@ -28,3 +44,12 @@ I am a passionate game developer with a strong background in programming. My car
 ## Project Proposal <a name="project-proposal"></a>
 
 [Insert content for the Project Proposal page here]
+
+<nav>
+  <ul>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#resume">Resume</a></li>
+    <li><a href="#interpreting-data">Interpreting Data</a></li>
+    <li><a href="#project-proposal">Project Proposal</a></li>
+  </ul>
+</nav>
