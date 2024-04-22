@@ -141,11 +141,7 @@ section {
   text-align: center;
 }
 
-.home .image img {
-  height: 75rem;
-  width: 100rem;
-  
-}
+
 
 .home .content {
   -webkit-box-flex: 1;
