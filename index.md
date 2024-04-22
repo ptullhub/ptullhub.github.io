@@ -2,11 +2,16 @@
 
 Welcome to my GitHub Pages portfolio!
 
-## Index
-- [About Me](#about-me)
-- [Resume](#resume)
-- [Interpreting Data](#interpreting-data)
-- [Project Proposal](#project-proposal)
+<nav>
+  <ul>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#resume">Resume</a></li>
+    <li><a href="#interpreting-data">Interpreting Data</a></li>
+    <li><a href="#project-proposal">Project Proposal</a></li>
+  </ul>
+</nav>
+
+---
 
 ## About Me <a name="about-me"></a>
 
