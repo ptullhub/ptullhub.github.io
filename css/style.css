@@ -144,7 +144,7 @@ section {
 .home .image img {
   height: 75rem;
   width: 100rem;
-  border-radius: 100% 100% 100% 100 / 100% 100% 100% 100%;
+  border-radius: 100% 100% 100% 100% / 100% 100% 100% 100%;
 }
 
 .home .content {
